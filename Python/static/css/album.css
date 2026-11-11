@@ -1,0 +1,52 @@
+:root {
+  --jumbotron-padding-y: 3rem;
+}
+
+
+body{
+    height:100vh;
+	display: -ms-flexbox;
+    background: url("/static/images/cover.jpeg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.navbar {
+    margin-bottom: 0px;
+}
+
+.cover {
+  padding: 0 1.5rem;
+  text-align: center;
+  padding-top: 80px;
+  font-size: 40px;
+}
+.cover .btn-lg {
+  padding: .75rem 1.25rem;
+  font-weight: 700;
+}
+
+.cover-container {
+  width: 100%;
+  min-height: 100vh;
+}
+
+footer {
+    position: absolute;
+    padding-top: 1rem;
+    margin-top: 0;
+    margin-bottom: 0;
+    bottom: 0;
+    width: 100%;
+    background-color:transparent;
+}
+
+.cover-heading{
+    color:white;
+}
+
+.lead{
+    color:silver;
+}

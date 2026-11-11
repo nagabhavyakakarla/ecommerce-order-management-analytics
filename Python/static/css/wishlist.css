@@ -1,0 +1,24 @@
+.card{
+        margin: 0 auto; /* Added */
+        float: none; /* Added */
+        margin-bottom: 10px; /* Added */
+}
+
+
+.container{
+    padding-left:50px;
+    padding-right:50px
+}
+
+.jumbotron {
+    width:100%;
+    margin:0;
+}
+
+.alert {
+    margin-top:1rem;
+}
+
+.carousel-text{
+    color:black;
+}
